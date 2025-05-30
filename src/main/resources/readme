@@ -1,0 +1,7 @@
+Below memory size nned to pass as vm argument while running the application
+
+-Xms512m -Xmx2g
+
+File details can pass as command line argument
+
+Git repo path : https://github.com/dtripat87/file-reading-operation.git
